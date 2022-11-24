@@ -41,7 +41,7 @@ body {
 }
 
 footer {
-  background: url(../img/fondo1.jpg);
+  background: url("../img/fondo1.jpg");
   background-color: #07071A;
   background-attachment: fixed;
   background-repeat:  no-repeat;
